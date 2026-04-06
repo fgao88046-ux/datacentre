@@ -33,7 +33,7 @@ MarkupSafe==2.1.5
 matplotlib==3.7.5
 mdurl==0.1.2
 narwhals==1.42.1
-numpy==1.26.0
+numpy
 openai==2.2.0
 packaging==24.2
 pandas==2.0.3
